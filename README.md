@@ -1,5 +1,5 @@
 Justin Kase
-justin.kase@mac.com | 210-601-2959 | Hollywood Park, TX 78232
+justin.kase@mac.com | San Antonio, TX
 
 Professional Summary
 Accomplished technical leader with 15+ years of experience building and scaling high-impact
