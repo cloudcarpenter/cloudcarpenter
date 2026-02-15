@@ -1,8 +1,11 @@
 Justin Kase
-justin.kase@mac.com | San Antonio, TX
-github.com/cloudcarpenter
+
+justin.kase@mac.com | github.com/cloudcarpenter
+ | San Antonio, TX
+
 
 Professional Summary
+
 Accomplished technical leader with 15+ years of experience building and scaling high-impact
 Customer Success organizations that empower thousands of clients to succeed.
 Brings deep expertise in cloud architecture, customer success, and sales operations, with a
@@ -12,7 +15,9 @@ exceed strategic business objectives while delivering exceptional customer exper
 Recognized by senior leadership for innovative thinking, operational excellence, and the ability
 to develop and elevate high-performing technical professionals.
 
+
 Achievements
+
 - Achieved AWS Solutions Architect Associate certification Aug 2019
 - Designed and launched GoDaddy’s first Omni-Commerce Account Management program,
 accelerating growth among high-volume merchant segments
@@ -23,6 +28,7 @@ contributing significantly to increased market share and cloud adoption
 
 
 Work History
+
 Home Improvement Advisor / UpperKase - San Antonio, TX / 06.2025-present
 - Provide expert guidance and recommendations to homeowners looking to enhance or
 renovate their living spaces.
@@ -32,7 +38,6 @@ comprehensive plans ensuring a smooth process.
 is achievable within ideal timelines.
 - Execute projects with efficiency, cleanliness, and attention to detail to deliver an
 exceptional experience with enduring value.
-
 
 Sr. Manager of Customer Success / GoDaddy - remote, TX / 11.2022 - 06.2025
 - Spearheaded the planning and launch of the Omni-Commerce Account Management
@@ -69,6 +74,7 @@ productivity, and accountability
 issues and foster professional growth
 - Administered Customer Success CRM platform (ClientSuccess), securely maintained
 important client data, and trained new platform users
+
 Customer Success Manager / Media Temple - remote, TX / 05.2017 - 10.2019
 - Managed cloud hosting portfolio of 50-100 clients that generated over $2 million in annual
 recurring revenue
@@ -104,7 +110,9 @@ applicable workloads
 - Created, maintained internal documentation, along with other critical sales and support
 collateral
 
+
 Skills
+
 Customer Success, Customer Journey, Sales Operations, Solution Architecture, Account
 Management, Cloud Hosting, Web Hosting, Omni-Commerce, Payment Processing, AWS, API,
 AI, GPT, CRM, Wordpress, SalesForce, Analytics, Product Management, Presentation, Contract
