@@ -1,5 +1,4 @@
-Justin Kase
-github.com/cloudcarpenter
+Justin Kase | github.com/cloudcarpenter
 
 Professional Summary
 Accomplished technical leader with 15+ years of experience building and scaling high-impact Customer Success organizations that empower thousands of clients to succeed.  
